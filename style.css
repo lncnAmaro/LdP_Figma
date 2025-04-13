@@ -1,0 +1,84 @@
+body {
+    height: 100%;
+    width: 100%;
+}
+
+#divGeral {
+    display: flex;
+    width: 1156px;
+    margin-top: 124px;
+    margin-bottom: 375.69px;
+    margin-left: 165px;
+    margin-right: 119px;
+    margin-bottom: 375.69px;
+}
+
+#esquerda {
+    margin-top: 36px;
+    width: 540px;
+    height: 204px;
+}
+
+h1 {
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 36px;
+    font-style: medium;
+    line-height: 48px;
+}
+
+#esqCimaTxt {
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 16px;
+    font-style: normal;
+    line-height: 26px;
+    color: rgba(111, 124, 178, 1);
+    margin-top: 16px;
+}
+
+#esqBaixo {
+    display: flex;
+    margin-top: 80px;
+    width: 540px;
+    height: 54px;
+}
+
+#dirBaixoEsquerda {
+    width: 138px;
+    height: 54px;
+}
+#dirBaixoDireita {
+    margin-left: 30px;
+    width: 138px;
+    height: 54px;
+}
+
+h3 {
+    width: 255px;
+    margin-top: 14px;
+    margin-bottom: 6px;
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 26px;
+    font-style: medium;
+    line-height: 26px;
+}
+
+#baixoTxt {
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 12px;
+    font-style: regular;
+    line-height: 18px;
+    width: 255px;
+    height: 54px;
+}
+
+#mulher {
+    margin-left: 76px;
+}
+
+#icon {
+    display:inline-block;
+}
